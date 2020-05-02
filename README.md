@@ -15,9 +15,8 @@ Core i9–9820x，也並非只包含 'Core '的意義，
 而是其背後所隱含的意義
  => 蘋果公司的創辦人 ; Intel 處理器
  
----
 
-NER（Named Entity Recognition 命名實體識別) 在文本語義理解、信息解析 (entity extraction)領域發展，具有一定的重要性。
+##### NER（Named Entity Recognition 命名實體識別) 在文本語義理解、信息解析 (entity extraction)領域發展，具有一定的重要性。
 
 命名實體識別在部分的應用場景中得到較好的結果，其場景主要辨別named entity 類別大多為 人名、地名、機構、專有名詞…etc.
 
@@ -43,7 +42,8 @@ NER（Named Entity Recognition 命名實體識別) 在文本語義理解、信�
 
 ---
 
-### What is the difference between regular and sequence labeling classification ?
+* ### What is the difference between regular and sequence labeling classification ?
+
 #### - Regular classification
 ![image](https://github.com/CinnaBao/Named-Entity-Recognition/blob/master/Image/RegularClssfication.png)
 
@@ -55,7 +55,7 @@ NER（Named Entity Recognition 命名實體識別) 在文本語義理解、信�
 
 ---
 
-### What is the most common tagging format for tagging tokens in a chunking task?
+* ### What is the most common tagging format for tagging tokens in a chunking task?
 #### -BIO encoding (Beginning, Inside, Outside)
 
 B - for the first token of a named entity
@@ -73,7 +73,7 @@ U - for unit length named entity's
 
 ---
 
-### Future developments in the NER field ?
+* ### Future developments in the NER field ?
 在 deep learning 領域，需要大量的標註資料。
 
 但是在大多數的應用場景沒有已標註的海量資料，如何使用少量標註資料進行 named entity recognition 也是未來研究的重點。
@@ -88,6 +88,6 @@ U - for unit length named entity's
 
 ---
 
-### How to construct customized NER by using spaCy
+* ### How to construct customized NER by using spaCy
   Coming soon
 
