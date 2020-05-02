@@ -15,8 +15,9 @@ Core i9–9820x，也並非只包含 'Core '的意義，
 而是其背後所隱含的意義
  => 蘋果公司的創辦人 ; Intel 處理器
  
+--
 
-##### NER（Named Entity Recognition 命名實體識別) 在文本語義理解、信息解析 (entity extraction)領域發展，具有一定的重要性。
+### NER（Named Entity Recognition 命名實體識別) 在文本語義理解、信息解析 (entity extraction)領域發展，具有一定的重要性。
 
 命名實體識別在部分的應用場景中得到較好的結果，其場景主要辨別named entity 類別大多為 人名、地名、機構、專有名詞…etc.
 
