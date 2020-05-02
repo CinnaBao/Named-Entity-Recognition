@@ -15,8 +15,7 @@ Core i9–9820x，也並非只包含 'Core '的意義，
 而是其背後所隱含的意義
  => 蘋果公司的創辦人 ; Intel 處理器
  
-
--
+---
 
 NER（Named Entity Recognition 命名實體識別) 在文本語義理解、信息解析 (entity extraction)領域發展，具有一定的重要性。
 
@@ -40,11 +39,11 @@ NER（Named Entity Recognition 命名實體識別) 在文本語義理解、信�
 ---
 
 ### What is the difference between regular and sequence labeling classification ?
-#### * Regular classification
+#### - Regular classification
 ![image](https://github.com/CinnaBao/Named-Entity-Recognition/blob/master/Image/RegularClssfication.png)
 
 
-#### * Sequence labeling classification
+#### - Sequence labeling classification
 ![image](https://github.com/CinnaBao/Named-Entity-Recognition/blob/master/Image/SequenceLabelingClassification.png)
 
 在序列標註問題中，當前的預測標籤 (y)不僅與當前的特徵向量 x 相關，還與之前的預測標籤 (y-1) 相關，即預測標籤序列之間是具有相依性關係。
