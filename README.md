@@ -57,21 +57,33 @@ NER（Named Entity Recognition 命名實體識別) 在文本語義理解、信�
 
 ### What is the most common tagging format for tagging tokens in a chunking task?
 #### -BIO encoding (Beginning, Inside, Outside)
+
 B - for the first token of a named entity
+
 I - for tokens inside named entity's
+
 O - for tokens outside any named entity
 
+
 #### -BIOLU encoding (Last, Unit-length chunks)
+
 L - for the last tokens of named entity's
+
 U - for unit length named entity's
 
 ---
 
 ### Future developments in the NER field ?
-在 deep learning 領域，需要大量的標註資料。但是在大多數的應用場景沒有已標註的海量資料，如何使用少量標註資料進行 named entity recognition 也是未來研究的重點。
+在 deep learning 領域，需要大量的標註資料。
+
+但是在大多數的應用場景沒有已標註的海量資料，如何使用少量標註資料進行 named entity recognition 也是未來研究的重點。
+
 #### - Transfer learning (遷移學習) : 
+
 與這個任務直接相關的資料並不多，藉由運用與其應用場景任務相似的資料建立模型。
+
 #### - Semi-supervise learning (半監督學習) : 
+
 藉由少部分已標註的資料，通過識別少量已標註資料的特徵進行分類。
 
 ---
