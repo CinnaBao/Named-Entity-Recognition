@@ -2,7 +2,7 @@
 
 ---
 
-# What is named entity?
+### What is named entity?
 顧名思義就是讓電腦可以識別出語意實體。
 辨別出在我們應用場景有重要成分、有意義的元素，協助我們了解這段文本的內涵。
 命名實體識別技術可以讓電腦將詞彙和實體連接在一起，就好比當我們看到
@@ -18,7 +18,7 @@ NER（Named Entity Recognition 命名實體識別) 在文本語義理解、信�
 
 也可以應用的業務需求場景
 
-#1) 快速彙整履歷 : 快速瀏覽並評估人才是否適用。
+#1)快速彙整履歷 : 快速瀏覽並評估人才是否適用。
 
 #2)醫學臨床病例文本 : 識別病患基本資料、疾病專有名詞、病徵、治療方式。
 
@@ -26,14 +26,17 @@ NER（Named Entity Recognition 命名實體識別) 在文本語義理解、信�
 
   透過 Named entity recognition 技術，辨識顧客語意來優化 E-commerce 搜尋引擎結果，相對於大多數的應用場景，其具有相當的困難與複雜程度。大多數搜尋引擎的推薦結果，是基於過去顧客搜尋、購買過的關聯式分析推薦，導致如果過去沒有顧客搜尋過的關鍵字，可能會出現不相關的產品或無結果的這種情況發生，因此這種傳統的搜索關聯需要通過辨識語意，持續優化顧客體驗，以提供更準確的結果。
 
-#4)識別客戶投訴和反饋 : 將客戶投訴與反饋分類至組織內負責單位。
+#4)識別客戶投訴和反饋 : 將客戶投訴與反饋分類至組織內負責單位。
 
 
 ---
 
-What is the difference between regular and sequence labeling classification ?
-- Regular classification
-- Sequence labeling classification
+####What is the difference between regular and sequence labeling classification ?
+#-Regular classification
+
+#-Sequence labeling classification
+
+
 在序列標註問題中，當前的預測標籤 (y)不僅與當前的特徵向量 x 相關，還與之前的預測標籤 (y-1) 相關，即預測標籤序列之間是具有相依性關係。
 What is the most common tagging format for tagging tokens in a chunking task?
 - BIO encoding (Beginning, Inside, Outside)
