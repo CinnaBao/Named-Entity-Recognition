@@ -90,6 +90,6 @@ _Core i9–9820x_ ，也並非只包含 _'Core'_ 的意義，
 
 ---
 
-* ### How to construct customized NER by using spaCy
+* ### How to construct customized NER by using spaCy ?
   Coming soon
 
