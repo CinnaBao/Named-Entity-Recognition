@@ -59,11 +59,9 @@ _Core i9–9820x_ ，也並非只包含 _'Core'_ 的意義，
 * ### What is the most common tagging format for tagging tokens in a chunking task?
 #### -BIO encoding (Beginning, Inside, Outside)
 
-B - for the first token of a named entity
-
-I - for tokens inside named entity's
-
-O - for tokens outside any named entity
+> B - for the first token of a named entity
+> I - for tokens inside named entity's
+> O - for tokens outside any named entity
 
 
 #### -BIOLU encoding (Last, Unit-length chunks)
