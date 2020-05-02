@@ -33,7 +33,7 @@ NER（Named Entity Recognition 命名實體識別) 在文本語義理解、信�
 
 ####What is the difference between regular and sequence labeling classification ?
 #-Regular classification
-
+ #[image]()
 #-Sequence labeling classification
 
 
