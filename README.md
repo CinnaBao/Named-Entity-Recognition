@@ -1,6 +1,7 @@
 # Named-Entity-Recognition
 
 ![image](https://github.com/CinnaBao/Named-Entity-Recognition/blob/master/Image/pic1.png)
+###### Photo credit : https://www.instagram.com/kevin550d/?igshid=e0szsshr7ter
 
 ---
 
@@ -94,4 +95,5 @@ _Core i9–9820x_ ，也並非只包含 _'Core'_ 的意義，
 
 * ### How to construct customized NER by using spaCy ?
   Coming soon
+
 
