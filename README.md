@@ -8,14 +8,14 @@
 命名實體識別技術可以讓電腦將詞彙和實體連接在一起，
 
 就好比當我們看到
-Steven Paul Jobs，並非是單純字面上 '賈伯斯'
+_Steven Paul Jobs_ ，並非是單純字面上 _'賈伯斯'_
 
-Core i9–9820x，也並非只包含 'Core '的意義，
+_Core i9–9820x_ ，也並非只包含 _'Core'_ 的意義，
 
 而是其背後所隱含的意義
- => 蘋果公司的創辦人 ; Intel 處理器
+ => **蘋果公司的創辦人** ; **Intel 處理器**
  
---
+---
 
 ### NER（Named Entity Recognition 命名實體識別) 在文本語義理解、信息解析 (entity extraction)領域發展，具有一定的重要性。
 
