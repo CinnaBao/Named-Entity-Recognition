@@ -14,9 +14,9 @@ Core i9–9820x，也並非只包含 'Core '的意義，
 
 而是其背後所隱含的意義
  => 蘋果公司的創辦人 ; Intel 處理器
- ⋅⋅ 
+ 
 
----
+-
 
 NER（Named Entity Recognition 命名實體識別) 在文本語義理解、信息解析 (entity extraction)領域發展，具有一定的重要性。
 
