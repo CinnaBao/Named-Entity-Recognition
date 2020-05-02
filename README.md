@@ -1,5 +1,7 @@
 # Named-Entity-Recognition
 
+![image](https://github.com/CinnaBao/Named-Entity-Recognition/blob/master/Image/pic1.png)
+
 ---
 
 * ### What is named entity?
