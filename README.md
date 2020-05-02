@@ -19,6 +19,7 @@ Core i9–9820x，也並非只包含 'Core '的意義，
 ---
 
 NER（Named Entity Recognition 命名實體識別) 在文本語義理解、信息解析 (entity extraction)領域發展，具有一定的重要性。
+
 命名實體識別在部分的應用場景中得到較好的結果，其場景主要辨別named entity 類別大多為 人名、地名、機構、專有名詞…etc.
 
 也可以應用的業務需求場景
@@ -29,7 +30,9 @@ NER（Named Entity Recognition 命名實體識別) 在文本語義理解、信�
 
 #### 3)優化搜尋引擎結果 : 辨識顧客語意內涵，提供關聯實體做搜尋推薦。
 
-透過 Named entity recognition 技術，辨識顧客語意來優化 E-commerce 搜尋引擎結果，相對於大多數的應用場景，其具有相當的困難與複雜程度。大多數搜尋引擎的推薦結果，是基於過去顧客搜尋、購買過的關聯式分析推薦，導致如果過去沒有顧客搜尋過的關鍵字，可能會出現不相關的產品或無結果的這種情況發生，因此這種傳統的搜索關聯需要通過辨識語意，持續優化顧客體驗，以提供更準確的結果。
+透過 Named entity recognition 技術，辨識顧客語意來優化 E-commerce 搜尋引擎結果，相對於大多數的應用場景，其具有相當的困難與複雜程度。
+
+大多數搜尋引擎的推薦結果，是基於過去顧客搜尋、購買過的關聯式分析推薦，導致如果過去沒有顧客搜尋過的關鍵字，可能會出現不相關的產品或無結果的這種情況發生，因此這種傳統的搜索關聯需要通過辨識語意，持續優化顧客體驗，以提供更準確的結果。
 
 #### 4)識別客戶投訴和反饋 : 將客戶投訴與反饋分類至組織內負責單位。
 
@@ -39,6 +42,8 @@ NER（Named Entity Recognition 命名實體識別) 在文本語義理解、信�
 ### What is the difference between regular and sequence labeling classification ?
 #### -Regular classification
 ![image](https://github.com/CinnaBao/Named-Entity-Recognition/blob/master/Image/RegularClssfication.png)
+
+
 #### -Sequence labeling classification
 ![image](https://github.com/CinnaBao/Named-Entity-Recognition/blob/master/Image/SequenceLabelingClassification.png)
 
