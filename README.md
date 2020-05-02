@@ -33,9 +33,10 @@ NER（Named Entity Recognition 命名實體識別) 在文本語義理解、信�
 
 ### What is the difference between regular and sequence labeling classification ?
 #### -Regular classification
- #[image](https://github.com/CinnaBao/Named-Entity-Recognition/tree/master/Image/RegularClssfication.png)
+ ![image](https://github.com/CinnaBao/Named-Entity-Recognition/tree/master/Image/RegularClssfication.png)
+ 
 #### -Sequence labeling classification
- #[image](https://github.com/CinnaBao/Named-Entity-Recognition/tree/master/Image/SequenceLabelingClassification.png)
+ ![image](https://github.com/CinnaBao/Named-Entity-Recognition/tree/master/Image/SequenceLabelingClassification.png)
 
      在序列標註問題中，當前的預測標籤 (y)不僅與當前的特徵向量 x 相關，還與之前的預測標籤 (y-1) 相關，即預測標籤序列之間是具有相依性關係。
 
