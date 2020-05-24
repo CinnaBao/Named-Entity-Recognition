@@ -1,8 +1,9 @@
 # Named-Entity-Recognition
 
 ![image](https://github.com/CinnaBao/Named-Entity-Recognition/blob/master/Image/pic1.png)
-###### Photo credit : https://www.instagram.com/kevin550d/?igshid=e0szsshr7ter
 
+##### Photo credit : https://www.instagram.com/kevin550d/?igshid=e0szsshr7ter
+##### Medium : https://medium.com/@wendybaowy/named-entity-recognition-4c3119594fb1
 ---
 
 * ### What is Named Entity Recognition ?
@@ -28,6 +29,7 @@ NER（Named Entity Recognition 命名實體識別) 視為在信息解析 (entity
 #### 4)識別客戶投訴和反饋 :
 > 投訴或評論特定產品、賣家、機構，將客戶投訴與反饋分類至組織內負責單位。
 
+---
 
 * ### What is named entity?
 顧名思義就是讓電腦可以識別出語意實體。
@@ -75,14 +77,13 @@ _Core i9–9820x_ ，也並非只包含 _'Core'_ 的意義，而是其背後所�
 
 ---
 
-* ### customized NER by using spaCy
+* ### Customized NER by using spaCy
 
 上述程式碼為使用SpaCy構建客製化的命名實體識別器。
 
 在命名實體識別領域中， SpaCy 與 NLTK 是在自然語言處理領域中較常使用的套件包。
 
 SpaCy 除了提供已建置好的命名實體識別器 (person, organization, language, event …etc.)，也可以透過添加新的 named entity類別，訓練符合當前任務需求的實體識別模型。
-
 
 ---
 
