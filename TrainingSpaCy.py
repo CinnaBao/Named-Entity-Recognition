@@ -59,4 +59,4 @@ class TrainingSpaCy():
                 End = time.time() 
                 print('     It take %s secs' %str(round(End - Start,2)))
                 print(losses)
-        return nlp
+        return nlp, Entities_list
