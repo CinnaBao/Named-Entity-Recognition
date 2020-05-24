@@ -9,7 +9,7 @@ span_tokens = re.compile(r'\s')
 class Data_preprocessing():
     def __init__(self):
         self.author = 'WY Bao'
-        self.data_path = "C:\\Users\\baowanyun\\NamedEntityRecognition\\"
+        self.data_path = "C:\\Users\\baowanyun\\NamedEntityRecognition\\Data\\"
     
     ## A token can only be part of one entity, so make sure the entities you're setting don't overlap. ##
     def RemoveErrordatase(self, candidateID, data):
